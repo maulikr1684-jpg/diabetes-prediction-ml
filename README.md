@@ -36,10 +36,12 @@ To build a predictive model that assists in early detection of diabetes and supp
 - Integrate real-time healthcare data
 - Build web application
 
-##  Outputs
-(Add your images here)
 
 ## How to Run
 ```bash
 pip install -r requirements.txt
 python model.py
+
+Author
+Maulik Rathva
+
